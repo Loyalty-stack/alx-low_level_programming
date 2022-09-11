@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-/*
+/**
  * main - Prints all the lower alphabet without  *q and e.
  *
  * Return: Always 0 (success)
