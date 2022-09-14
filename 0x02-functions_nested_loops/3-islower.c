@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - shows 1 if the input is a lowercase character, Another cases shows 0.
+ * _islower - shows 1 if lowercase character, Another cases shows 0.
  *
  * @c: the character in ASCII code
  *
